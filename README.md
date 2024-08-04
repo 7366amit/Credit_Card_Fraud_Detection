@@ -16,15 +16,15 @@ In this project we will detect fraudulent credit card transactions with the help
 
 <h3>Table of Contents</h3>
 <p>
-1. Importing dependencies
-2. Exploratory data analysis
-3. Splitting the data into train & test data
-4. Model Building
-    --Perform cross validation with RepeatedKFold
-    --Perform cross validation with StratifiedKFold
-    --RandomOverSampler with StratifiedKFold Cross Validation
-    --Oversampling with SMOTE Oversampling
-    --Oversampling with ADASYN Oversampling
-5. Hyperparameter Tuning
-6. Conclusion
+1. Importing dependencies <br>
+2. Exploratory data analysis <br>
+3. Splitting the data into train & test data <br>
+4. Model Building<br>
+    --Perform cross validation with RepeatedKFold <br>
+    --Perform cross validation with StratifiedKFold <br>
+    --RandomOverSampler with StratifiedKFold Cross Validation <br>
+    --Oversampling with SMOTE Oversampling <br>
+    --Oversampling with ADASYN Oversampling <br>
+5. Hyperparameter Tuning <br>
+6. Conclusion <br>
 </p>
