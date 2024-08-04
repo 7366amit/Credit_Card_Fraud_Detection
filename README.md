@@ -1064,7 +1064,7 @@ print("XGBoost threshold: {0}".format(threshold))
 XGboost roc_value: 0.9815403079438694
 XGBoost threshold: 0.01721232570707798
 
-#Conclusion
+# Conclusion
 In the oversample cases, of all the models we build found that the XGBOOST model with Random Oversampling with StratifiedKFold CV gave us the best accuracy and ROC on oversampled data. Post that we performed hyperparameter tuning and got the below metrices :
 
 XGboost roc_value: 0.9815403079438694 XGBoost threshold: 0.01721232570707798
