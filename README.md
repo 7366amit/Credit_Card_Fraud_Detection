@@ -1063,7 +1063,8 @@ threshold = thresholds[np.argmax(tpr-fpr)]
 print("XGBoost threshold: {0}".format(threshold))
 XGboost roc_value: 0.9815403079438694
 XGBoost threshold: 0.01721232570707798
-Conclusion
+
+#Conclusion
 In the oversample cases, of all the models we build found that the XGBOOST model with Random Oversampling with StratifiedKFold CV gave us the best accuracy and ROC on oversampled data. Post that we performed hyperparameter tuning and got the below metrices :
 
 XGboost roc_value: 0.9815403079438694 XGBoost threshold: 0.01721232570707798
@@ -1072,4 +1073,5 @@ However, of all the models we created we found Logistic Regression with L2 Regul
 
 Colab paid products - Cancel contracts here
 Connected to Python 3 Google Compute Engine backend
+
 
